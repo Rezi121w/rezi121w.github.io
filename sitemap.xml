@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://rezi121w.github.io/Paint/</loc>
-<lastmod>2020-09-08</lastmod>
-</url>
-</urlset>
+<sitemap scheme="2.1">
+  <title>https://rezi121w.github.io/Paint/</title>
+  <version>1.0</version>
+  <link>https://paint.slickplan.com/x1ws3poso</link>
+  <pubDate>Sun, 31 Jan 2021 07:33:09 -0500</pubDate>
+  <logo type="text">Rezi</logo>
+  <settings>
+    <language>en_US</language>
+  </settings>
+  <section id="svgmainsection">
+    <options>
+      <template>horizontal</template>
+      <color_scheme>default</color_scheme>
+      <design>flat</design>
+      <id>svgmainsection</id>
+    </options>
+    <cells>
+      <cell id="svga8u33vznglv4wwoa">
+        <level>home</level>
+        <order>1000</order>
+        <text>Paint</text>
+      </cell>
+      <cell id="svgd19g1ngp31vhp8uq">
+        <level>foot</level>
+        <order>1000</order>
+        <text>2020-09-04</text>
+      </cell>
+      <cell id="svgf9gu1v1hzbpk4bms">
+        <level>1</level>
+        <order>1000</order>
+        <text>https://rezi121w.github.io/Paint/</text>
+      </cell>
+    </cells>
+  </section>
+</sitemap>
