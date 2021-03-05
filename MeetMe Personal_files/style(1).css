@@ -2455,7 +2455,6 @@ h6 {
   .wel_item i {
     font-size: 24px;
     background: linear-gradient(to right, #766dff 0%, #86e7ff 70%);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
     font-size: 24px;
@@ -2642,7 +2641,6 @@ h6 {
     background: #fff; }
     .feature_item:hover i:before {
       background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
-      -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
 
 /* End Feature Area css
@@ -2661,7 +2659,6 @@ h6 {
 .personal_text h6 {
   font-size: 14px;
   font-family: "Roboto", sans-serif;
-  text-transform: uppercase;
   letter-spacing: 2.1px;
   font-weight: normal;
   margin-bottom: 12px;
@@ -2670,12 +2667,10 @@ h6 {
   font-size: 16px;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
-  text-transform: uppercase;
   margin-bottom: 20px;
   color: #222222; }
 .personal_text h3 {
   font-size: 48px;
-  text-transform: uppercase;
   margin-bottom: 15px;
   color: #222222; }
 .personal_text p {
